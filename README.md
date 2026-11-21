@@ -1,7 +1,7 @@
 # collaboration-conflict-practice
 # Our Team Project
 
-Project description: We are creating a website using JavaScript and modern technologies.
+Project description: This is our first collaborative project.
 
 Team members:
 - Student A: Mari Gharibashvili
