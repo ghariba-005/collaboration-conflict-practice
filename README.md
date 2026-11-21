@@ -1,7 +1,7 @@
 # collaboration-conflict-practice
 # Our Team Project
 
-Project description: This is our first collaborative project.
+Project description: We are creating a website using JavaScript and modern technologies.
 
 Team members:
 - Student A: სახელი და გვარი
