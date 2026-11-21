@@ -1,10 +1,11 @@
 # collaboration-conflict-practice
 # Our Team Project
 
-Project description: We are creating a website using JavaScript and modern technologies.
+Project description: We are building a website using HTML, CSS and JavaScript.
 
 Team members:
-- Student A: mari gharibashvili
-- Student B: andro gojiashvili
+- Student A: Mari Gharibashvili
+- Student B: Andro Gojiashvili
+
 
 Project status: In Progress
