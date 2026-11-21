@@ -1,10 +1,10 @@
 # collaboration-conflict-practice
 # Our Team Project
 
-Project description: This is our first collaborative project.
+Project description: We are building a website using HTML and CSS.
 
 Team members:
-- Student A: სახელი და გვარი
-- Student B: სახელი და გვარი
+- Student A: mari gharibashvili
+- Student B: andro gojiashvili
 
 Project status: In Progress
