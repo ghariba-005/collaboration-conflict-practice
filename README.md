@@ -4,7 +4,7 @@
 Project description: We are creating a website using JavaScript and modern technologies.
 
 Team members:
-- Student A: სახელი და გვარი
-- Student B: სახელი და გვარი
+- Student A: mari gharibashvili
+- Student B: andro gojiashvili
 
 Project status: In Progress
